@@ -18,7 +18,6 @@ We leverage geospatial intelligence and AI-backed algorithms to create a fair, d
 
 ## Quick Links
 - [Project Data](https://github.com/Green-Gold-Foundation/project-data)
-- [Technical Narrative](https://github.com/Green-Gold-Foundation/project-docs)
 - [Project Slides](https://github.com/Green-Gold-Foundation/project-slides)
 
 ## Contact
