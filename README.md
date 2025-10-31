@@ -7,7 +7,7 @@ Description: The project leverages TypeScript for type safety and maintainabilit
 
 ## AI and Geospatial Intelligence for Fair and Accountable Credit Scoring
 ## Summary
-We leverage geospatial intelligence and AI-backed algorithms to create a fair, data-driven credit scoring system. By using crop production as the main metric and analyzing verified field and satellite data, our model filters out bias, scores farmers based on actual performance, and flags lenders that exhibit discriminatory patterns. This approach ensures transparency, inclusivity, and accountability across the lending ecosystem
+We leverage geospatial intelligence and AI-backed algorithms to create a fair, data-driven credit scoring system. By using crop analysis as the main metric and analyzing verified field and satellite data, our model filters out bias, scores farmers based on actual performance, and flags lenders that exhibit discriminatory patterns. This approach ensures transparency, inclusivity, and accountability across the lending ecosystem
 
 ## Team Members
 - Ayana Ndete — Product Lead (@Ayana Ndete)
