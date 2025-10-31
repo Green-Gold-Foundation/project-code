@@ -1,4 +1,5 @@
-Project code
+# Project code
+
 Tech Stack: TypeScript, JavaScript, CSS
 
 Description: The project leverages TypeScript for type safety and maintainability, JavaScript for core logic, and CSS for responsive and visually appealing design.
