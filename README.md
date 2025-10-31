@@ -1,30 +1,25 @@
-# FarmFin AI platform
+Project code
+Tech Stack: TypeScript, JavaScript, CSS
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+Description: The project leverages TypeScript for type safety and maintainability, JavaScript for core logic, and CSS for responsive and visually appealing design.
+# Green Gold
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/ayanaamwayi-6356s-projects/v0-farm-fin-ai-platform)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/vLhK1gZlBbe)
+## A credit scoring system powered by Geospatial intelligence and machine learning also utilising AI.
 
-## Overview
+## Summary
+A system that integrates AI, geospatial intelligence and machine-learning to allow a small holder farmer to keep records and calculate credit worthiness.It also helps reduce gender based bias when it comes to applying for loans.
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+## Team Members
+- Ayana Ndete — Product Lead (@Ayana Ndete)
+- Simon Walaka — Technical Specialist (@SimonWalakaTech)
+- Sharon Kariuki — Frontend Developer (@SharonKariuki)
+- Vinicent Kipyegon — Technical Specialist(@Pyexxy)
+- Ann Miano — Documentation & Quality Engineer (@MI-AN-O)
 
-## Deployment
+## Quick Links
+- [Project Data](https://github.com/Green-Gold-Foundation/project-data)
+- [Technical Narrative](https://github.com/Green-Gold-Foundation/project-docs)
+- [Project Slides](https://github.com/Green-Gold-Foundation/project-slides)
 
-Your project is live at:
-
-**[https://vercel.com/ayanaamwayi-6356s-projects/v0-farm-fin-ai-platform](https://vercel.com/ayanaamwayi-6356s-projects/v0-farm-fin-ai-platform)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.app/chat/vLhK1gZlBbe](https://v0.app/chat/vLhK1gZlBbe)**
-
-## How It Works
-
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+## Contact
+mianoann51@gmail.com
