@@ -5,10 +5,9 @@ Tech Stack: TypeScript, JavaScript, CSS
 Description: The project leverages TypeScript for type safety and maintainability, JavaScript for core logic, and CSS for responsive and visually appealing design.
 # Green Gold
 
-## A credit scoring system powered by Geospatial intelligence and machine learning also utilising AI.
-
+## AI and Geospatial Intelligence for Fair and Accountable Credit Scoring
 ## Summary
-A system that integrates AI, geospatial intelligence and machine-learning to allow a small holder farmer to keep records and calculate credit worthiness.It also helps reduce gender based bias when it comes to applying for loans.
+We leverage geospatial intelligence and AI-backed algorithms to create a fair, data-driven credit scoring system. By using crop production as the main metric and analyzing verified field and satellite data, our model filters out bias, scores farmers based on actual performance, and flags lenders that exhibit discriminatory patterns. This approach ensures transparency, inclusivity, and accountability across the lending ecosystem
 
 ## Team Members
 - Ayana Ndete — Product Lead (@Ayana Ndete)
